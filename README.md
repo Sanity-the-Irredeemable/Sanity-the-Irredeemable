@@ -4,6 +4,6 @@ hope ya day is fine
 anyways, adios 
 -Sanity                                                
        _____________                                              
-     /   __    __    \                                                         
+     /      __       __       \                                                         
 ~   |     <____>      |                                           
      \_______________/
