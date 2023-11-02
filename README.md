@@ -3,7 +3,7 @@ this is tha readme
 hope ya day is fine
 anyways, adios 
 -Sanity                                                
-       _____________
-     /   __    __    \
-~   |     <____>      |      
+       _____________                                              
+     /   __    __    \                                                         
+~   |     <____>      |                                           
      \_______________/
